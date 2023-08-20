@@ -30,4 +30,4 @@
 
 С удовольствием общаюсь с единомышленниками и готов к новым интересным проектам!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Razdva94)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Razdva94&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
