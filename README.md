@@ -3,7 +3,7 @@
 
 # Привет! 👋
 
-Я **Антонов Данила**, и я Fullstack разработчик, Основной стек Front-end: React, TS, RTK, Tailwind; Backend: Node.js, Express, Nest.js, PosgreSQL, Prisma
+Я **Антонов Данила**, и я Fullstack разработчик. Основной стек Front-end: React, TS, RTK, Tailwind; Backend: Node.js, Express, Nest.js, PosgreSQL, Prisma
 
 ## 👨‍💻 Мой стек:
 
